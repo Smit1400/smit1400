@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smit Shah</h1>
 <h3 align="center">Passionate Data Scientist</h3>
 
-Driven by a passion for data science and a relentless pursuit of innovation, I'm Smit Shah, a Master of Data Science candidate at Northeastern University with a stellar GPA of 3.9. 📚💻 My journey has been marked by hands-on experiences from Dell Technologies to Incipient Technologies, where I've boosted performance metrics and streamlined processes with my analytical prowess. 🚀📈 Adept in a broad spectrum of technical skills, from Python to TensorFlow, I thrive on transforming complex data into actionable insights. 🛠️🔍 As I gear up for new challenges post-graduation in May 2024, I'm eager to contribute my expertise and drive towards impactful data-driven solutions. 🌟📊 Let's connect and explore the endless possibilities in the world of data together! 🌐🤝
+Driven by a passion for data science and a relentless pursuit of innovation, I'm Smit Shah, 📚💻 My journey has been marked by hands-on experiences from Dell Technologies to Incipient Technologies, where I've boosted performance metrics and streamlined processes with my analytical prowess. 🚀📈 Adept in a broad spectrum of technical skills, from Python to TensorFlow, I thrive on transforming complex data into actionable insights. 🛠️🔍  I'm eager to contribute my expertise and drive towards impactful data-driven solutions. 🌟📊 Let's connect and explore the endless possibilities in the world of data together! 🌐🤝
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit1400&label=Profile%20views&color=0e75b6&style=flat" alt="smit1400" /> </p>
 
