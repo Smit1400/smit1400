@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit1400&label=Profile%20views&color=0e75b6&style=flat" alt="smit1400" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smit1400" alt="smit1400" /></a> </p>
 
 - 🔭 I’m currently working on [SmartCart_MBA](https://github.com/Smit1400/SmartCart_MBA)
 
@@ -17,10 +16,11 @@
 
 - 📫 How to reach me **shahsmit01042000@gmail.com**
 
-- ⚡ Fun fact **I am boring**
+- ⚡ Fun fact **I work better with a cup of coffee**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
