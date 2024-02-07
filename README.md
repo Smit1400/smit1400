@@ -27,11 +27,6 @@
 
 - ⚡ Fun fact **I work better with a cup of coffee**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shahsmit01042000) [![LinkedIN](https://img.shields.io/badge/-LinkedIN-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit1400/) 
 
