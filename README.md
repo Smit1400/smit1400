@@ -11,7 +11,7 @@
 - [CarDealer - AI-Driven Car Valuation & Marketplace](https://github.com/Smit1400/CarDealer)
 <!-- --- -->
 
-### Current Status/ About me
+### 💫 Current Status/ About me
 
 - 🔭 I’m currently working on [SmartCart_MBA](https://github.com/Smit1400/SmartCart_MBA)
 
