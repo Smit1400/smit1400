@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Smit Shah</h1>
-<h3 align="center">Passionate Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
-Driven by a passion for data science and a relentless pursuit of innovation, I'm Smit Shah, 📚💻 My journey has been marked by hands-on experiences from Dell Technologies to Incipient Technologies, where I've boosted performance metrics and streamlined processes with my analytical prowess. 🚀📈 Adept in a broad spectrum of technical skills, from Python to TensorFlow, I thrive on transforming complex data into actionable insights. 🛠️🔍  I'm eager to contribute my expertise and drive towards impactful data-driven solutions. 🌟📊 Let's connect and explore the endless possibilities in the world of data together! 🌐🤝
-
+### 📕 Latest Projects/Blogs
+<!-- BLOG-POST-LIST:START -->
+- [SmartCart - Market Basket Analysis](https://github.com/Smit1400/SmartCart_MBA)
+- [Research Paper Summarization - Finetuning MistralAI LLM](https://github.com/Smit1400/Research_Summarization_Finetuning_MistralAI_LLM)
+- [EcoMed Expert - Integrating LLM (llama2) with Langchain](https://github.com/Smit1400/EcoMed-Expert-llama-RAG-chainlit-FAISS)
+- [Meta’s “Self-Rewarding Language Models” paper explained](https://medium.com/@smitshah00/metas-self-rewarding-language-models-paper-explained-38b5c6ee9dd3)
+- [HeadlineHunch - News Headline Generator](https://github.com/Smit1400/HeadlineHunch)
+- [CarDealer - AI-Driven Car Valuation & Marketplace](https://github.com/Smit1400/CarDealer)
+<!-- --- -->
 
 - 🔭 I’m currently working on [SmartCart_MBA](https://github.com/Smit1400/SmartCart_MBA)
 
